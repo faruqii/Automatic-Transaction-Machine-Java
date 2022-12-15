@@ -24,6 +24,6 @@ TL;DR: You can edit the project by opening the project in your favorite IDE and 
 
 Regards,
 
-![N|Solid](https://avatars0.githubusercontent.com/u/32310174?s=460&v=4)
+![N|Solid](https://avatars.githubusercontent.com/u/68532485?s=400&u=52b5fab8591c1753efc0fc7e6792f0f5842b5b8e&v=4)
 
 Faruqi Hafiz Object Oriented Programming Practicum Coordinator
